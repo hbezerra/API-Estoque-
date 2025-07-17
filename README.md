@@ -1,4 +1,4 @@
-🛒 Inventory Management System - Spring Boot API
+<h2>🛒 Inventory Management System - Spring Boot API</h2> 
 This is a simple REST API built with Spring Boot as part of my learning journey. The API provides basic functionality for managing a product inventory, allowing CRUD operations (Create, Read, Update, Delete).
 
 <hr>
@@ -47,9 +47,15 @@ This project helped me understand:
 
 ✍️ Author
 Hugo Bezerra Figueiroa
-📧 Email: hbezerradev@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/hugo-bezerra-figueiroa-08473734a/
-💻 GitHub: github.com/hbezerra
+<ul>
+  <li>📧 Email: hbezerradev@gmail.com</li>
+  <li>💼 LinkedIn: https://www.linkedin.com/in/hugo-bezerra-figueiroa-08473734a/</li>
+  <li>💻 GitHub: github.com/hbezerra</li>
+
+</ul>
+
+
+
 
 
 
